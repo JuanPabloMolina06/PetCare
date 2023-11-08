@@ -1,0 +1,11 @@
+{
+  "name": "petcare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "petcare.js",
+  "scripts": {
+    "start" : "nodemon ./petcare.js localhost:3000"
+  },
+  "keywords": [],
+  "author": ""
+}
