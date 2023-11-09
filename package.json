@@ -4,8 +4,16 @@
   "description": "",
   "main": "petcare.js",
   "scripts": {
-    "start" : "nodemon ./petcare.js localhost:3000"
+    "start": "nodemon ./petcare.js localhost:3000"
   },
   "keywords": [],
-  "author": ""
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
