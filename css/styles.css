@@ -376,6 +376,11 @@ select:disabled {
   opacity: 1;
 }
 
+.logo{
+  width: 50%;
+  height: auto;
+}
+
 [list]:not([type=date]):not([type=datetime-local]):not([type=month]):not([type=week]):not([type=time])::-webkit-calendar-picker-indicator {
   display: none !important;
 }
@@ -8091,7 +8096,7 @@ textarea.form-control-lg {
 
 .text-muted {
   --bs-text-opacity: 1;
-  color: #6c757d !important;
+  color: #ffff !important;
 }
 
 .text-black-50 {
@@ -8162,7 +8167,7 @@ textarea.form-control-lg {
 
 .bg-dark {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #157347
 }
 
 .bg-black {
