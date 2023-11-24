@@ -192,8 +192,8 @@ h2 {
   background-color: #7e0cf5;
   opacity: .2; }
 
-.navbar-light{
-  background-color: #0c4128;
+.verde{
+    background-color: #157347;
 }
 
 .nav-link{
@@ -203,4 +203,9 @@ h2 {
 .nav-item{
   
   color: white;
+}
+
+.espaco{
+  display: flex;
+  justify-content: space-between;
 }
